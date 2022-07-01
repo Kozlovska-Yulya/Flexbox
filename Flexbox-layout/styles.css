@@ -13,6 +13,8 @@
 .navigation {
   display: flex;
   list-style: none;
+  margin: 0;
+  padding: 16px;
 }
 
 .navigation__item {
